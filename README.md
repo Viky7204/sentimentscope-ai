@@ -1,7 +1,7 @@
 # SentimentScope AI
 
 > A clean and simple **Sentiment Analysis** project for product/movie reviews.  
-> Perfect fresher-level AI project that is easy to explain and defend in interviews.
+> 
 
 ---
 
@@ -99,28 +99,11 @@ sentimentscope-ai/
 4. **Output**
    - Sentiment label + Confidence percentage
 
-This is a classic, industry-standard NLP pipeline that is very easy to explain.
+
 
 ---
 
-## 🎤 How to Defend This Project in Interview
 
-**Q. Why Logistic Regression instead of BERT or LSTM?**  
-→ For a fresher project, interpretability and simplicity matter more. I can explain every step clearly. Deep models are harder to debug and need more data/compute.
-
-**Q. What is TF-IDF and why did you use it?**  
-→ TF-IDF gives higher importance to rare but meaningful words and lower importance to common words. It works very well with traditional ML models on text data.
-
-**Q. What are the limitations of your project?**  
-→ Limited training data, does not understand sarcasm or complex context very well, and performance depends on the quality of training examples.
-
-**Q. How would you improve it?**  
-→ Use a larger dataset, try transformer models (DistilBERT), add explainability (which words influenced the prediction), and deploy it as an API.
-
-**Q. Real-world use case?**  
-→ E-commerce companies, movie platforms, and customer support teams use sentiment analysis to understand customer feedback at scale.
-
----
 
 ## 📊 Sample Results
 
